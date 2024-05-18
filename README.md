@@ -5,8 +5,7 @@ Welcome to my GitHub profile! I'm an 18-year-old programmer from the Czech Repub
 ![Profile Views](https://komarev.com/ghpvc/?username=demiffy&color=blue)
 
 ## 🔗 Websites
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/demiffy)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/demiffy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom%C3%A1%C5%A1-velner-8017a8283/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://demiffy.vercel.app/)
 
 ## 🛠️ Technologies & Tools
