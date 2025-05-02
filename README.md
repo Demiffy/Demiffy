@@ -1,6 +1,6 @@
 # Hiiii, I'm Demi :)
 
-Welcome to my GitHub profile! I'm an 18-year-old programmer from the Czech Republic, currently studying at Kyberna High School. Primarily, I focus on backend development, but I also dabble in frontend work. As a young developer, I'm still actively learning and expanding my skill set in both areas.
+Welcome to my GitHub profile! I'm an 19-year-old programmer from the Czech Republic, currently studying at Kyberna High School. Primarily, I focus on backend development, but I also dabble in frontend work. As a young developer, I'm still actively learning and expanding my skill set in both areas.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=demiffy&color=blue)
 
